@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Personnel Tracking", "Personnel Tracking\Personnel Tracking.csproj", "{84E837D6-DEA8-498E-8153-56FA30BE13D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84E837D6-DEA8-498E-8153-56FA30BE13D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84E837D6-DEA8-498E-8153-56FA30BE13D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84E837D6-DEA8-498E-8153-56FA30BE13D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84E837D6-DEA8-498E-8153-56FA30BE13D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2526D6D9-729D-4605-8495-5CB8793E5FC5}
+	EndGlobalSection
+EndGlobal
